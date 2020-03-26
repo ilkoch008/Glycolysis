@@ -1,6 +1,8 @@
 # Glycolysis
 Solutions of the equation of the simplest glycolysis model.
 
+![](//placehold.it/150x100)
+
 Here you can find the implementation of 4 methods.
 
 They are:
