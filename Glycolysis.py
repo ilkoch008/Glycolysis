@@ -1,10 +1,7 @@
-import math
-import numpy
 import matplotlib.pyplot as plt
 import Neuton_for_glycolysis_trapezoid as nfgt
-import Neuton_for_glycolisis_Euler as nfge
+import Neuton_for_glycolysis_Euler as nfge
 import Find_next_for_Runge_Kutta as fn
-from multiprocessing import Process
 
 
 # ----------------------------------------------------------------------------------------------------------------------
