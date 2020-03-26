@@ -1,7 +1,7 @@
 # Glycolysis
 Solutions of the equation of the simplest glycolysis model.
 
-![](//placehold.it/150x100)
+![alt text](https://github.com/ilkoch008/Glycolysis/task.png "The equation of the simplest glycolysis model")
 
 Here you can find the implementation of 4 methods.
 
