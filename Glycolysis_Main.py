@@ -3,7 +3,7 @@ import Glycolysis as g
 
 if __name__ == '__main__':
     h = 0.001
-    alpha = 200
+    alpha = 400
     betta = 10
 
     euler_proc = Process(target=g.euler, args=(h, alpha, betta))
